@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SDH-Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-08 20:16+0000\n"
+"PO-Revision-Date: 2023-11-23 16:55+0000\n"
+"Last-Translator: ViPlayer\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4\n"
+"X-Domain: sdh-post"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add your comment"
+msgstr "Добавьте Ваш комментарий"
+
+msgid "Adding error"
+msgstr "Ошибка добавления"
+
+msgid "After payment you will receive a download link"
+msgstr "После оплаты вы получите ссылку на скачивание"
+
+msgid "ago"
+msgstr "назад"
+
+msgid "Approved"
+msgstr "Одобренный"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "blog"
+msgstr "блог"
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "Buy for"
+msgstr "Купить за"
+
+msgid "Cancel Response"
+msgstr "Отменить ответ"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Comment added"
+msgstr "Комментарий добавлен"
+
+msgid "Comment and its children deleted"
+msgstr "Комментарий и его ответы удалены"
+
+msgid "Comment deleted"
+msgstr "Коментарий удален"
+
+msgid "Comment to the post"
+msgstr "Комментарий к записи"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Data received"
+msgstr "Данные получены"
+
+msgid "Download"
+msgstr "Скачать"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Getting Details"
+msgstr "Получение деталей"
+
+#: functions/ajax.php:127
+msgid "Have you scrolled to the end"
+msgstr "Вы долистали до конца"
+
+msgid "Insufficient user rights"
+msgstr "Недостаточно прав"
+
+msgid "just now"
+msgstr "Только что"
+
+msgid "Latest Comments section by users"
+msgstr "Раздел последних комментариев пользователя"
+
+msgid "Like added"
+msgstr "Лайк добавлен"
+
+msgid "Like is set"
+msgstr "Лайк поставлен"
+
+msgid "Like removed"
+msgstr "Лайк удален"
+
+msgid "Likes"
+msgstr "Лайки"
+
+msgid "Link for payment"
+msgstr "Ссылка для оплаты"
+
+msgid "Maximum file size:"
+msgstr "Максимальный размер файла:"
+
+msgid "Old product price"
+msgstr "Старая цена товара"
+
+msgid "Payment for the goods"
+msgstr "Оплата товара"
+
+msgid "Please log in to leave a comment"
+msgstr "Пожалуйста, войдите в систему, чтобы оставить комментарий"
+
+msgid "Plugin for blogging, sales, style, management."
+msgstr "Плагин для ведения блога, продажи, стиля, управления."
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Product File"
+msgstr "Файл товара"
+
+msgid "Product price"
+msgstr "Цена товара"
+
+msgid "Product registration"
+msgstr "Оформление товара"
+
+msgid "Recent comments"
+msgstr "Последние комментарии"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "reply"
+msgstr "Ответить"
+
+msgid "SDH-Post Blog Page"
+msgstr "Страница блога SDH-Post"
+
+#: functions/ajax.php:128
+msgid "System Notification"
+msgstr "Системное уведомление"
+
+msgid "The comment has been changed"
+msgstr "Комментарий изменен"
+
+msgid "The payment system is not registered"
+msgstr "Платежная система не зарегистрирована"
+
+msgid "The post represents a digital product"
+msgstr "Запись представляет собой цифровой товар"
+
+msgid "The product is purchased"
+msgstr "Товар куплен"
+
+msgid "To like, you need to log in"
+msgstr "Чтобы поставить лайк, вам нужно авторизоваться"
+
+msgid "To pay, you need to log in"
+msgstr "Для оплаты необходимо войти в систему"
+
+msgid "Your download link"
+msgstr "Ваша ссылка на скачивание"

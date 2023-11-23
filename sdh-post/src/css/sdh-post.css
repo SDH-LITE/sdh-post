@@ -1,0 +1,78 @@
+#content {
+    background-color: #F0F0F0;
+}
+
+.rcl-rating-box.rating-type-post.box-default {
+    display: none;
+}
+
+.full-width #content .content-grid {
+    max-width: unset;
+    margin: 0 auto;
+}
+
+.text-muted {
+    font-size: 1rem;
+}
+
+strong{
+    font-weight: bold;
+    color: black;
+    font-size: inherit;
+}
+
+.card-title a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-title a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.card-body p {
+    color: black;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.c-p {
+    padding: 0.75rem 1.25rem;
+}
+
+.time {
+    color: black;
+    font-size: 1rem;
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 1px 2px 4px rgb(0 0 0 / 28%);
+}
+
+
+.row .col-md-6 {
+    width: unset;
+}
+
+.sdh a {
+    all: unset;
+    cursor: pointer;
+}
+
+.sdh a:hover {
+    all: unset;
+    cursor: pointer;
+    color: #17a2b8; /* Цвет текста ссылок */
+    text-decoration: none; /* Убираем подчеркивание ссылок */
+}
+
+body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+    max-width: 100%;
+}
+
+
+

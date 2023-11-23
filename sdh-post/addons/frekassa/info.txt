@@ -1,0 +1,6 @@
+Name: Freekassa;
+Version: 1.0.0;
+Description: Платежная система для SDH-Post;
+Author: ViPlayer;
+Author URI: https://sdh-lite.ru/account/?user=1;
+Add-on URI: https://sdh-lite.ru/;

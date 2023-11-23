@@ -1,0 +1,15 @@
+div#comments {
+    display: none;
+}
+
+#content .content-grid {
+    display: flex !important;
+}
+
+.sdh {
+    border: 1px solid #1de9c3 !important;
+}
+
+.bg-sdh {
+    background-color: #1de9c3!important;
+}

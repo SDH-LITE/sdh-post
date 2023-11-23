@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SDH-Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-23 16:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4\n"
+"X-Domain: sdh-post"
+
+#: functions/ajax.php:127
+msgid "Have you scrolled to the end"
+msgstr ""
+
+#: functions/ajax.php:128
+msgid "System Notification"
+msgstr ""
+
+msgid "Likes"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Like added"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "reply"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add your comment"
+msgstr ""
+
+msgid "Please log in to leave a comment"
+msgstr ""
+
+msgid "Comment added"
+msgstr ""
+
+msgid "Adding error"
+msgstr ""
+
+msgid "just now"
+msgstr ""
+
+msgid "Cancel Response"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Comment deleted"
+msgstr ""
+
+msgid "Insufficient user rights"
+msgstr ""
+
+msgid "Comment and its children deleted"
+msgstr ""
+
+msgid "Comment to the post"
+msgstr ""
+
+msgid "Plugin for blogging, sales, style, management."
+msgstr ""
+
+msgid "The post represents a digital product"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Buy for"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Product registration"
+msgstr ""
+
+msgid "After payment you will receive a download link"
+msgstr ""
+
+msgid "Getting Details"
+msgstr ""
+
+msgid "Data received"
+msgstr ""
+
+msgid "The product is purchased"
+msgstr ""
+
+msgid "Your download link"
+msgstr ""
+
+msgid "Old product price"
+msgstr ""
+
+msgid "Product price"
+msgstr ""
+
+msgid "Product File"
+msgstr ""
+
+msgid "Maximum file size:"
+msgstr ""
+
+msgid "The payment system is not registered"
+msgstr ""
+
+msgid "To pay, you need to log in"
+msgstr ""
+
+msgid "Payment for the goods"
+msgstr ""
+
+msgid "Link for payment"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Recent comments"
+msgstr ""
+
+msgid "Latest Comments section by users"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "The comment has been changed"
+msgstr ""
+
+msgid "To like, you need to log in"
+msgstr ""
+
+msgid "Like is set"
+msgstr ""
+
+msgid "Like removed"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgctxt "Страница блога SDH-Post"
+msgid "SDH-Post Blog Page"
+msgstr ""
+
+msgid "blog"
+msgstr ""
